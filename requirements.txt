@@ -1,0 +1,3 @@
+d2lzh==1.0.0
+matplotlib==3.2.1
+mxnet-cu102==1.6.0
